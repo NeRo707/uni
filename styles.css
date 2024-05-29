@@ -1,0 +1,133 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.intro {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  margin-top: 10rem;
+  width: 100%;
+  max-width: 80%;
+  font-size: 3rem;
+}
+
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 2em;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 1em;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+nav a:hover {
+  color: #ccc;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+  margin-top: 1em;
+}
+
+p {
+  margin: 1em auto;
+  width: 80%;
+  max-width: 600px;
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  max-height: 600px;
+}
+
+.hobby {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.hobby-image {
+  width: 10rem;
+  display: block;
+  margin: 0 auto;
+}
+
+.projects {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.projects a {
+  margin: 1em;
+  text-decoration: none;
+  color: #333;
+  font-size: large;
+  font-weight: bold;
+  border: 1px solid #333;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+.projects a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.contact-links {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.contact-links a {
+  margin: 1em;
+  text-decoration: none;
+  color: #333;
+  font-size: large;
+  font-weight: bold;
+  border: 1px solid #333;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+
+.contact-links a:hover{
+  background-color: #333;
+  color: #fff;
+}
+
+.projectscode{
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.projectscode a{
+  margin: 2rem;
+  text-decoration: none;
+  color: #333;
+  font-size: large;
+  font-weight: bold;
+  border: 1px solid #333;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+
+.projectscode a:hover{
+  background-color: #333;
+  color: #fff;
+}
